@@ -1,0 +1,49 @@
+<mxfile host="65bd71144e">
+    <diagram id="RWigQq2xelYvxpPmx6fO" name="Page-1">
+        <mxGraphModel dx="792" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="40" width="360" height="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="endArrow=none;html=1;entryX=1.003;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="30" y="116" as="sourcePoint"/>
+                        <mxPoint x="440" y="230" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="320" y="116"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="Start a mtach" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="History" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="65" y="240" width="290" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="425" y="40" width="360" height="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Skip yuor turn" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="530" y="140" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="a board" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="190" width="290" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="endArrow=none;html=1;entryX=1.003;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="423.92" y="120" as="sourcePoint"/>
+                        <mxPoint x="785" y="120" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="713.9200000000001" y="120"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="your turn next" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="545" y="380" width="120" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
